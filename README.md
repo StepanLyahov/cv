@@ -51,7 +51,7 @@
 *   Identified and fixed a critical bug in a core network switch configuration library, preventing potential network outages.
 *   Resolved issues in an internal system for procuring and managing network hardware.
 
-### **VseInstrumenty.ru** | Golang Software Engineer
+### **VseInstrumenty.ru** | Middle Golang Software Engineer on the Search Team
 *(11 months)*
 *Enhanced the search and catalog systems for a marketplace with 3+ million products.*
 
@@ -60,7 +60,7 @@
 *   Optimized the search engine, decreasing API response time by **33%** (from 300ms to 200ms) under a load of **500 RPS** per node.
 *   Accelerated data migration processes by **70%** for datasets over **20GB**.
 
-### **XPlanet.ru** | Golang Software Engineer
+### **XPlanet.ru** | Middle Golang Software Engineer
 *(1 year 9 months)*
 *Developed a B2B logistics and supply chain management platform.*
 
