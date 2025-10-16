@@ -45,7 +45,7 @@
 
 ### **Yandex** | Middle Golang Software Engineer on the Infra Team
 *(2 months)*
-* Worked within the internal network infrastructure team, supporting core data center operations.
+* Worked within the internal network infrastructure team, supporting core data center operations.*
 
 *   Implemented new features in an automated network switch configuration system, improving operational efficiency.
 *   Identified and fixed a critical bug in a core network switch configuration library, preventing potential network outages.
