@@ -10,7 +10,7 @@
 * Senior Software Engineer specializing in architecting and scaling high-load distributed systems for advertising, search, and logistics platforms.
 * With over 5 years of experience, I have a proven track record of end-to-end ownership—from designing system architecture to driving performance optimization and leading technical initiatives.
 
-# Key Achievements:
+### Key Achievements:
 
 * Architected a multi-vertical ad platform at Magnit from the ground up, designing 10+ microservices that handle 1000+ RPS and process 1+ TB of data daily for fraud detection.
 
