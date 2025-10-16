@@ -1,7 +1,7 @@
 # Stepan Lyakhov
 **Senior Software Engineer (Golang) | Backend & Distributed Systems**
 
-[`linkedin.com/in/stepanlyahov`](https://www.linkedin.com/in/stepanlyahov) | `lyahov.stepa@gmail.com` | [`github.com/StepanLyahov`](https://github.com/StepanLyahov)
+[`linkedin.com/in/stepanlyahov`](https://www.linkedin.com/in/stepanlyahov) | `lyahov.stepa@gmail.com`
 
 ---
 
@@ -64,11 +64,10 @@
 *(1 year 9 months)*
 *Developed a B2B logistics and supply chain management platform.*
 
-*   Delivered 5+ major features to production as a key backend developer.
-*   Optimized a high-load notification service by implementing priority queues and refining algorithms, increasing theoretical throughput by **5x**.
-*   Implemented a critical, high-load service for generating PDF and Excel documents.
-*   Developed a business intelligence (BI) system for logistics analytics.
-*   Patched a security vulnerability in the cargo tracking service and introduced distributed tracing.
+*  Designed a document generation service for creating PDF and Excel reports for logistics operations.
+*  Improved notification service performance by 50% by implementing priority-based queues and optimizing core algorithms.
+*  Identified and patched a security vulnerability in the cargo tracking service, preventing potential exploitation.
+*  Introduced distributed tracing across services, decreasing mean time to resolution for production issues.
 
 ### **TN** | Software Engineer
 *(1 year 7 months)*
@@ -101,17 +100,27 @@
 ## Projects
 *TODO
 
+---
+
 ## Contributes
 *TODO
+
+---
 
 ## Courses
 *TODO
 
+---
+
 ## Books
 *TODO
 
+---
+
 ## Articles
 *TODO
+
+---
 
 ## Conferences
 *TODO
