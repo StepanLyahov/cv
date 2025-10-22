@@ -112,6 +112,11 @@
 *   Clean Architecture: Structuring for Separation of Concerns
 *   Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith
 *   Soft Skills: The Software Developer's Life Manual
+*   Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications
+*   The Ideal Programmer: How to Become a Software Development Professional
+*   C Programming Language
+*   System Design Interview – An insider's guide
+*   Unit Testing Principles, Practices, and Patterns
 
 ## Articles
 *TODO
@@ -120,7 +125,7 @@
 *TODO
 
 ## Algorithms
-*LeetCode: https://github.com/StepanLyahov/leetcode
+LeetCode: https://github.com/StepanLyahov/leetcode
 
 ## Certificates
 *TODO
