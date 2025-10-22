@@ -107,11 +107,11 @@
 *TODO
 
 ## Books
-*Designing Data-Intensive Applications: Embracing Distributed Trade-Offs
-*Clean Code
-*Clean Architecture: Structuring for Separation of Concerns
-*Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith
-*Soft Skills: The Software Developer's Life Manual
+*   Designing Data-Intensive Applications: Embracing Distributed Trade-Offs
+*   Clean Code
+*   Clean Architecture: Structuring for Separation of Concerns
+*   Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith
+*   Soft Skills: The Software Developer's Life Manual
 
 ## Articles
 *TODO
