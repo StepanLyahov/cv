@@ -98,7 +98,7 @@
 ---
 
 ## Projects
-*TODO
+Go microservice template: https://github.com/StepanLyahov/go-microservice-template
 
 ## Contributes
 *TODO
