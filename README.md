@@ -101,8 +101,8 @@
 Go microservice template: https://github.com/StepanLyahov/go-microservice-template
 
 ## Mentoring
-Solvery: https://solvery.io/ru/mentor/17984
-GetMentor: https://getmentor.dev/mentor/liahov-stepan-5599
+* Solvery: https://solvery.io/ru/mentor/17984
+* GetMentor: https://getmentor.dev/mentor/liahov-stepan-5599
 
 ## Contributes
 *TODO
