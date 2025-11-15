@@ -100,6 +100,10 @@
 ## Projects
 Go microservice template: https://github.com/StepanLyahov/go-microservice-template
 
+## Mentoring
+Solvery: https://solvery.io/ru/mentor/17984
+GetMentor: https://getmentor.dev/mentor/liahov-stepan-5599
+
 ## Contributes
 *TODO
 
@@ -119,7 +123,7 @@ Go microservice template: https://github.com/StepanLyahov/go-microservice-templa
 *   Unit Testing Principles, Practices, and Patterns
 
 ## Articles
-*TODO
+Medium: https://medium.com/@lyahov.stepa
 
 ## Conferences
 *TODO
